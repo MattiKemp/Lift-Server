@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: rgb(255, 237, 219);
+}
+
+#pinput{
+    text-indent: -99em;
+}
+
+.UserInfo{
+    margin: 5%;
+    text-align: left;
+}
+
+#hours{
+    background-color: rgb(0,200,0);
+    border: 1px solid black;
+    margin: 2%;
+    display: inline-block;
+}
+
+#back{
+	width = 10%;
+	height = 10%;
+	border: 1px solid black;
+}
