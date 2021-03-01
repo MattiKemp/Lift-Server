@@ -8,3 +8,9 @@ Current Features:
 
 Planned Features:
 - Easy to use interface for selecting specific dates and time frames.
+
+Guide:
+1. Have a properly setup db.
+2. run Server.py in the Python directory to start the asynchronous Python server.
+3. have apache load index.html in the HTML directory.
+ 
